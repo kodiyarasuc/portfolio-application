@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Alata&family=Crimson+Text&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Alata&family=Crimson+Text&family=Montserrat:wght@300;600&display=swap');
+
+ .Contact_Container{
+    height: 100vh;
+   background: linear-gradient(#d0d7ec,#59a1d1);
+   /* box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.5); */
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+
+ }
+.Contact_Content{
+  border: 1px solid #fff;
+  padding: 30px 10px;
+  width: 600px;
+  height: 200px;
+  display:flex ;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  border-radius: 10px;
+  
+}
+.Contact_Container h1{
+    letter-spacing: 1px;
+    font-family: 'Mantserrat';
+}
+.Contact_Content .email{
+    font-size: 19px;
+    padding: 5px 0 20px 0;
+}
+
+.Contact_Content .email span{
+    color: tomato;
+    cursor: pointer;
+}
+.Contact_Content .github{
+    font-size: 19px;
+ 
+    padding: 5px 0 20px 0;
+}
+
+.Contact_Content .github span a{
+    color: tomato;
+    cursor: pointer;
+}
+.contact_icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}

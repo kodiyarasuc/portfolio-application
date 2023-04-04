@@ -8,7 +8,7 @@ const SkillContainer = () => {
     <div>
         <Element className='skillContainer' id='skills'>
             <div className='skillContainer_Text'>
-                <h2>SKILLSET</h2>
+                <h2><span>SKILL</span>SET</h2>
                 <div className='skillContainer_skillset'>
                   <h5>HTML-5</h5>
                   <div className='skillContainer_slider skillContainer_slider1'>

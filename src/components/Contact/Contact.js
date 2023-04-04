@@ -13,7 +13,7 @@ const Contact = () => {
             <strong>Email</strong> : <span>kodiyarasu01@gmail.com</span>
           </p>
           <p className="github">
-            <strong>Github UseName</strong> :  
+            <strong>Github UserName</strong> :  
              <span><a href="https://github.com/kodiyarasuc"> https://github.com/kodiyarasuc</a></span>
           </p>
           <div className="contact_icon">

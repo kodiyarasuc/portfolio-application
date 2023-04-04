@@ -13,14 +13,15 @@ const ProjectContainer = () => {
       link: "https://kodiyarasuc.github.io/Simple-To-Do-List-application/",
     },
     {
-      img: "https://clickup.com/blog/wp-content/uploads/2019/01/to-do-list-apps.png",
+      title:'COUNTOWN TIMING FOR NEXT NEW YEAR',
+      img: "https://static.vecteezy.com/system/resources/previews/013/947/287/original/simple-happy-new-year-2024-banner-free-vector.jpg",
 
       description:
-        "Simple To-Do-List application absolute beginner level .It will u make to learn HTML,CSS & JAVASCRIPT.",
-      link: "https://kodiyarasuc.github.io/Simple-To-Do-List-application/",
+        "Simple COUNTOWN TIMER application absolute beginner level .It will u make to learn HTML,CSS & JAVASCRIPT.",
+      link: "https://kodiyarasuc.github.io/Newyear-countown-timer-app/",
     },
     {
-      img: "https://clickup.com/blog/wp-content/uploads/2019/01/to-do-list-apps.png",
+      img: "",
 
       description:
         "Simple To-Do-List application absolute beginner level .It will u make to learn HTML,CSS & JAVASCRIPT.",

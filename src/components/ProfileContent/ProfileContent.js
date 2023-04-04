@@ -1,19 +1,20 @@
 import React from 'react'
 import { Link } from 'react-scroll'
 import '../ProfileContent/ProfileContent.css'
+
 const ProfileContent = () => {
   return (
     <div className='profileContent'>
     <div className="objective">
           <p>
-            I am the fresher in the corporative culture, but ready to faces the
+            I am the fresher in the corporative culture, but ready to face the
             challenges, utilizing and gaining my technical skills, would like to
             work with highly respectable company which gives me an opportunity
             to use my skills for mutual growth and benefit of company and
             myself.<br/><br/>Strong foundation in Front End web development, including
             HTML, CSS, JavaScript and Bootstrap. Familiar with responsive
             design, web development best practices, and popular front-end
-            framework React.
+            framework React JS.
           </p>
         </div>
        <div className='profileContent_container'>

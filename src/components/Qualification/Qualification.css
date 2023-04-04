@@ -8,8 +8,8 @@
   margin: 0;
   /* border: .1px solid white;
     border-color: transparent; */
-  background: linear-gradient(#2c2cc2, #55dd9d);
-  box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.5);
+  background:url('../assets/background/Textur\ Linie\ Diagonal\ schwarz\ Hintergrund\ Vektorgrafik.jpg');
+  /* box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.5); */
 }
 .qualification_container h1 {
   display: flex;
